@@ -1,0 +1,7 @@
+#read int
+
+int x = 0;
+
+scanf("%d\n",&x);
+
+printf("The number you entered was: %d\n", x);
